@@ -16,48 +16,48 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
 <br>
 
-**📂 Repositorio de Código Fuente**: [Link del Repositorio](https://github.com/Java-Course-Open-Source-org/javafundamentals-course-SafeZone)
+**📂 Repositorio de Código Fuente**: https://github.com/Java-Course-Open-Source-org/javafundamentals-course-SafeZone
 <br>
 
 ## Secuencia de la Lección
 ### Lección 1: ¿Qué es Java y la Programación?
 - **Descripción**: Aprende qué es la programación y por qué Java es un excelente lenguaje para empezar.
-- **Enlace**: [Ver la lección](https://youtu.be/Bd7nxzZ_bsE)
+- **Enlace**: https://youtu.be/Bd7nxzZ_bsE
 - **Conclusiones clave**: Java se usa para aplicaciones y juegos; los programas son instrucciones para computadoras.
-- **Empieza a programar**: [Click para programar](https://www.jdoodle.com/online-java-compiler)
+- **Empieza a programar**: https://www.jdoodle.com/online-java-compiler
 
 
 ### Lección 2: Variables y tipos de datos
 - **Descripción**: Aprende a almacenar datos en Java usando variables.
-- **Enlace**: [Ver la lección](https://youtu.be/8oL_zPfshgU)
+- **Enlace**: https://youtu.be/8oL_zPfshgU
 - **Conclusiones clave**: Usa int para números y String para texto; declara tus datos como int hp = 100; o String nombre = "Héroe";.
-- **Práctica**: [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👈 **¡No es necesario registrarse!**
+- **Práctica**: https://www.jdoodle.com/online-java-compiler 👈 **¡No es necesario registrarse!**
 
   
 ### Lección 3: Scanner y Decisiones (If-Else), bucles y métodos 
 - **Descripción**: Toma decisiones con if-else y recibe datos desde el teclado con Scanner
-- **Enlace**: [Ver la lección](https://youtu.be/xROq1PNceFQ)
+- **Enlace**: https://youtu.be/xROq1PNceFQ
 - **Conclusiones clave**: Uso de la herramienta Scanner; sentencias if (opcion == 1) {} para atacar y else para defender.
-- **Práctica**: [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👈 **¡Inicio inmediato!**
+- **Práctica**: https://www.jdoodle.com/online-java-compiler 👈 **¡Inicio inmediato!**
 
   
 ### Lección 4: Fundamentos de POO: Clases, Objetos, Constructores y Encapsulación 
 - **Descripción**: Construye clases con atributos y métodos, y protege las estadísticas de tu héroe (como los puntos de vida) para que no sean modificadas por error usando getters y setters.
-- **Enlace**: [Ver la lección](https://youtu.be/nfTIeKBivSc)
+- **Enlace**: https://youtu.be/nfTIeKBivSc
 - **Conclusiones clave**: Creación de class Personaje { }; uso de constructores para inicializar al héroe con sus estadísticas base; encapsulación con modificadores private; implementación de métodos getHp() y setHp() para interactuar de forma segura con los datos.
-- **Proyecto final**: [Crea tu aplicación POO](https://www.jdoodle.com/online-java-compiler) 👈 **¡Guarda y comparte!**
+- **Proyecto final**: https://www.jdoodle.com/online-java-compiler 👈 **¡Guarda y comparte!**
 
 ### Lección 5: Estructuras de Datos: Manipulación de arrays y buenas prácticas
 - **Descripción**: Añade un inventario de pociones usando Arrays (arreglos). Mejores prácticas, errores comunes y dónde aprender más.
-- **Enlace**: [Ver la lección](https://youtu.be/IhuHrcDtwyQ)
+- **Enlace**: https://youtu.be/IhuHrcDtwyQ
 - **Conclusiones clave**: Manipulación de arreglos String[] inventario
-- **Proyecto final**: [Crea tu aplicación POO](https://www.jdoodle.com/online-java-compiler) 👈 **¡Guarda y comparte!**
+- **Proyecto final**: https://www.jdoodle.com/online-java-compiler 👈 **¡Guarda y comparte!**
 
 ### Lección 6: Módulo de práctica y próximos pasos
 - **Descripción**: Sección de práctica de las lección 5 de Manipulación de arrays y buenas prácticas.
-- **Enlace**: [Ver la lección](https://youtu.be/BeKfFpmhJWo)
+- **Enlace**: https://youtu.be/BeKfFpmhJWo
 - **Consejos clave**: Depurar errores, explorar la documentación de Oracle Java.
-- **Compartir tu trabajo**: [Enviar creación](https://forms.gle/your-form)
+- **Compartir tu trabajo**: https://forms.gle/your-form
 
 <br><br>
 ## Recursos adicionales
